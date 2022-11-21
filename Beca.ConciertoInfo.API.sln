@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beca.ConciertoInfo.API", "Beca.ConciertoInfo.API.csproj", "{47D09A70-44AC-490E-AC21-27B210D8B2CF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conciertos.Test", "..\TestProject1\Conciertos.Test.csproj", "{536153BA-ACEA-485C-BCF8-5FB92F7FEF5F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conciertos.Test", "..\TestProject1\Conciertos.Test.csproj", "{536153BA-ACEA-485C-BCF8-5FB92F7FEF5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
